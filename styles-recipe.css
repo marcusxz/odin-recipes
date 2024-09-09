@@ -1,0 +1,19 @@
+* {
+    text-align: center;
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+    color: #40A578;
+}
+
+h1 {
+    color: #006769;
+}
+
+ul,
+ol {
+    display: inline-block;
+}
+
+li {
+    text-align: left;
+}
